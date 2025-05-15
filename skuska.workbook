@@ -10,20 +10,9 @@
         "ids": [],
         "entities": {}
       }
-    },
-    "2": {
-      "id": 2,
-      "type": "formalizationChecker",
-      "data": null,
-      "idCounter": 0,
-      "comments": {
-        "ids": [],
-        "entities": {}
-      }
     }
   },
   "cellsOrder": [
-    1,
-    2
+    1
   ]
 }
