@@ -10,9 +10,84 @@
         "ids": [],
         "entities": {}
       }
+    },
+    "4": {
+      "id": 4,
+      "type": "formalizationChecker",
+      "data": {
+        "exercise": {
+          "exercise_id": 1,
+          "title": "sformalizujte",
+          "description": "No description",
+          "constants": "NoConstant",
+          "predicates": "chlapec/1, dievca/1, predmet/1, profesor/1, student/1, ucitel/1, vyberovy/1, absolvoval/2, kamarat/2, skolitel/2, zapisany/2, spoluziaci/2, lepsi_kamarat/3, spokojny/1",
+          "functions": "NoFunction/1",
+          "constraints": "",
+          "parserType": "withPrecedence",
+          "propositions": [
+            {
+              "proposition_id": 27,
+              "proposition": "Je aspoň jeden študent, ktorý je chlapec, a jedna študentka (ktorá je teda dievča), a sú spolužiaci",
+              "solution": null
+            },
+            {
+              "proposition_id": 28,
+              "proposition": "Učiteľ,ktorý je profesorom, musí byť školiteľom aspoň jedného študenta.",
+              "solution": null
+            },
+            {
+              "proposition_id": 29,
+              "proposition": "Vzťah „byť spolužiakom“ je symetrický a tranzitívny.",
+              "solution": null
+            },
+            {
+              "proposition_id": 30,
+              "proposition": "Študenti a školitelia sú disjunktní.",
+              "solution": null
+            },
+            {
+              "proposition_id": 31,
+              "proposition": "Študent absolvuje predmet, iba ak ho má zapísaný.",
+              "solution": null
+            },
+            {
+              "proposition_id": 32,
+              "proposition": "Študent, ktorý absolvoval predmet, je spokojný.",
+              "solution": null
+            },
+            {
+              "proposition_id": 33,
+              "proposition": "Každý študent má medzi študentami aspoň dvoch kamarátov, pričom s jedným sa kamaráti viac než s tým druhým.",
+              "solution": null
+            },
+            {
+              "proposition_id": 34,
+              "proposition": "Každý študent má najviac jedného školiteľa.",
+              "solution": null
+            },
+            {
+              "proposition_id": 35,
+              "proposition": "Každá študentka má práve jednu spolužiačku, ktorá jej je najlepšia kamarátka.",
+              "solution": null
+            },
+            {
+              "proposition_id": 36,
+              "proposition": "Nikto si nezapisuje výberové predmety.",
+              "solution": null
+            }
+          ]
+        },
+        "exerciseId": 1
+      },
+      "idCounter": 0,
+      "comments": {
+        "ids": [],
+        "entities": {}
+      }
     }
   },
   "cellsOrder": [
-    1
+    1,
+    4
   ]
 }
