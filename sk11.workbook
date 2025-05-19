@@ -1,18 +1,5 @@
 {
   "versionNumber": 1,
-  "cells": {
-    "3": {
-      "id": 3,
-      "type": "quizChecker",
-      "data": null,
-      "idCounter": 0,
-      "comments": {
-        "ids": [],
-        "entities": {}
-      }
-    }
-  },
-  "cellsOrder": [
-    3
-  ]
+  "cells": {},
+  "cellsOrder": []
 }
