@@ -950,9 +950,20 @@
         "ids": [],
         "entities": {}
       }
+    },
+    "3": {
+      "id": 3,
+      "type": "quizChecker",
+      "data": null,
+      "idCounter": 0,
+      "comments": {
+        "ids": [],
+        "entities": {}
+      }
     }
   },
   "cellsOrder": [
-    1
+    1,
+    3
   ]
 }
