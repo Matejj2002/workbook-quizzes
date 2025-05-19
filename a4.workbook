@@ -275,7 +275,7 @@
             "order": [
               543
             ],
-            "quiz_id": 1673,
+            "quiz_id": 1674,
             "quizzes": [
               {
                 "ended": "Sun, 18 May 2025 19:34:25 GMT",
@@ -420,6 +420,14 @@
                   "correctAnswers"
                 ],
                 "quiz_id": 1673
+              },
+              {
+                "ended": "Mon, 19 May 2025 18:41:29 GMT",
+                "feedback": [
+                  "pointsReview",
+                  "correctAnswers"
+                ],
+                "quiz_id": 1674
               }
             ],
             "sections": [
@@ -487,13 +495,12 @@
             "time_to_finish": 5,
             "title": "NKK Vacsie"
           },
-          "quizId": 1673,
+          "quizId": 1674,
           "feedback": [
             "pointsReview",
             "questionFeedback"
           ],
           "conditionToRetake": true,
-          "userId": 1,
           "userRole": "student"
         }
       },
