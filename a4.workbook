@@ -244,7 +244,7 @@
         "quizId": 331,
         "reviewData": {
           "quiz": {
-            "actual_quiz": false,
+            "actual_quiz": true,
             "can_be_checked": true,
             "correction_of_attempts": "indepedentAttempts",
             "date_time_close": "Sun, 08 Jun 2025 10:56:00 GMT",
