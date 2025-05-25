@@ -239,7 +239,7 @@
             ],
             "first_generation": false,
             "id": 342,
-            "is_finished": false,
+            "is_finished": true,
             "is_opened": true,
             "number_of_corrections": 500,
             "number_of_questions": 4,
@@ -249,104 +249,14 @@
             "quiz_id": 1834,
             "quizzes": [
               {
-                "ended": null,
+                "ended": "Thu, 22 May 2025 16:14:18 GMT",
                 "feedback": [
                   "pointsReview",
                   "correctAnswers",
                   "optionsFeedback"
                 ],
-                "quiz_id": 1834,
-                "started": "Sun, 25 May 2025 13:29:01 GMT"
-              },
-              {
-                "ended": "Sun, 25 May 2025 13:28:48 GMT",
-                "feedback": [
-                  "pointsReview",
-                  "correctAnswers",
-                  "optionsFeedback"
-                ],
-                "quiz_id": 1833,
-                "started": "Sun, 25 May 2025 13:28:45 GMT"
-              },
-              {
-                "ended": "Fri, 23 May 2025 16:20:27 GMT",
-                "feedback": [
-                  "pointsReview",
-                  "correctAnswers",
-                  "optionsFeedback"
-                ],
-                "quiz_id": 1832,
-                "started": "Fri, 23 May 2025 16:20:19 GMT"
-              },
-              {
-                "ended": "Thu, 22 May 2025 20:09:15 GMT",
-                "feedback": [
-                  "pointsReview",
-                  "correctAnswers",
-                  "optionsFeedback"
-                ],
-                "quiz_id": 1830,
-                "started": "Thu, 22 May 2025 20:09:12 GMT"
-              },
-              {
-                "ended": "Thu, 22 May 2025 20:09:10 GMT",
-                "feedback": [
-                  "pointsReview",
-                  "correctAnswers",
-                  "optionsFeedback"
-                ],
-                "quiz_id": 1829,
-                "started": "Thu, 22 May 2025 20:09:06 GMT"
-              },
-              {
-                "ended": "Thu, 22 May 2025 20:09:04 GMT",
-                "feedback": [
-                  "pointsReview",
-                  "correctAnswers",
-                  "optionsFeedback"
-                ],
-                "quiz_id": 1828,
-                "started": "Thu, 22 May 2025 20:09:00 GMT"
-              },
-              {
-                "ended": "Thu, 22 May 2025 20:08:46 GMT",
-                "feedback": [
-                  "pointsReview",
-                  "correctAnswers",
-                  "optionsFeedback"
-                ],
-                "quiz_id": 1827,
-                "started": "Thu, 22 May 2025 20:08:43 GMT"
-              },
-              {
-                "ended": "Thu, 22 May 2025 20:08:32 GMT",
-                "feedback": [
-                  "pointsReview",
-                  "correctAnswers",
-                  "optionsFeedback"
-                ],
-                "quiz_id": 1826,
-                "started": "Thu, 22 May 2025 20:08:25 GMT"
-              },
-              {
-                "ended": "Thu, 22 May 2025 20:08:22 GMT",
-                "feedback": [
-                  "pointsReview",
-                  "correctAnswers",
-                  "optionsFeedback"
-                ],
-                "quiz_id": 1825,
-                "started": "Thu, 22 May 2025 20:08:20 GMT"
-              },
-              {
-                "ended": "Thu, 22 May 2025 16:16:55 GMT",
-                "feedback": [
-                  "pointsReview",
-                  "correctAnswers",
-                  "optionsFeedback"
-                ],
-                "quiz_id": 1787,
-                "started": "Thu, 22 May 2025 16:16:46 GMT"
+                "quiz_id": 1785,
+                "started": "Thu, 22 May 2025 16:14:16 GMT"
               },
               {
                 "ended": "Thu, 22 May 2025 16:15:19 GMT",
@@ -359,14 +269,104 @@
                 "started": "Thu, 22 May 2025 16:15:14 GMT"
               },
               {
-                "ended": "Thu, 22 May 2025 16:14:18 GMT",
+                "ended": "Thu, 22 May 2025 16:16:55 GMT",
                 "feedback": [
                   "pointsReview",
                   "correctAnswers",
                   "optionsFeedback"
                 ],
-                "quiz_id": 1785,
-                "started": "Thu, 22 May 2025 16:14:16 GMT"
+                "quiz_id": 1787,
+                "started": "Thu, 22 May 2025 16:16:46 GMT"
+              },
+              {
+                "ended": "Thu, 22 May 2025 20:08:22 GMT",
+                "feedback": [
+                  "pointsReview",
+                  "correctAnswers",
+                  "optionsFeedback"
+                ],
+                "quiz_id": 1825,
+                "started": "Thu, 22 May 2025 20:08:20 GMT"
+              },
+              {
+                "ended": "Thu, 22 May 2025 20:08:32 GMT",
+                "feedback": [
+                  "pointsReview",
+                  "correctAnswers",
+                  "optionsFeedback"
+                ],
+                "quiz_id": 1826,
+                "started": "Thu, 22 May 2025 20:08:25 GMT"
+              },
+              {
+                "ended": "Thu, 22 May 2025 20:08:46 GMT",
+                "feedback": [
+                  "pointsReview",
+                  "correctAnswers",
+                  "optionsFeedback"
+                ],
+                "quiz_id": 1827,
+                "started": "Thu, 22 May 2025 20:08:43 GMT"
+              },
+              {
+                "ended": "Thu, 22 May 2025 20:09:04 GMT",
+                "feedback": [
+                  "pointsReview",
+                  "correctAnswers",
+                  "optionsFeedback"
+                ],
+                "quiz_id": 1828,
+                "started": "Thu, 22 May 2025 20:09:00 GMT"
+              },
+              {
+                "ended": "Thu, 22 May 2025 20:09:10 GMT",
+                "feedback": [
+                  "pointsReview",
+                  "correctAnswers",
+                  "optionsFeedback"
+                ],
+                "quiz_id": 1829,
+                "started": "Thu, 22 May 2025 20:09:06 GMT"
+              },
+              {
+                "ended": "Thu, 22 May 2025 20:09:15 GMT",
+                "feedback": [
+                  "pointsReview",
+                  "correctAnswers",
+                  "optionsFeedback"
+                ],
+                "quiz_id": 1830,
+                "started": "Thu, 22 May 2025 20:09:12 GMT"
+              },
+              {
+                "ended": "Fri, 23 May 2025 16:20:27 GMT",
+                "feedback": [
+                  "pointsReview",
+                  "correctAnswers",
+                  "optionsFeedback"
+                ],
+                "quiz_id": 1832,
+                "started": "Fri, 23 May 2025 16:20:19 GMT"
+              },
+              {
+                "ended": "Sun, 25 May 2025 13:28:48 GMT",
+                "feedback": [
+                  "pointsReview",
+                  "correctAnswers",
+                  "optionsFeedback"
+                ],
+                "quiz_id": 1833,
+                "started": "Sun, 25 May 2025 13:28:45 GMT"
+              },
+              {
+                "ended": "Sun, 25 May 2025 13:29:05 GMT",
+                "feedback": [
+                  "pointsReview",
+                  "correctAnswers",
+                  "optionsFeedback"
+                ],
+                "quiz_id": 1834,
+                "started": "Sun, 25 May 2025 13:29:01 GMT"
               }
             ],
             "sections": [
@@ -441,7 +441,6 @@
             "questionFeedback"
           ],
           "conditionToRetake": true,
-          "userId": 1,
           "userRole": "student"
         }
       },
