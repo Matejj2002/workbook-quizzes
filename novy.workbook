@@ -4,7 +4,9 @@
     "1": {
       "id": 1,
       "type": "quizChecker",
-      "data": null,
+      "data": {
+        "reviewData": {}
+      },
       "idCounter": 0,
       "comments": {
         "ids": [],
