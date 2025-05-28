@@ -1191,10 +1191,21 @@
         "ids": [],
         "entities": {}
       }
+    },
+    "4": {
+      "id": 4,
+      "type": "text",
+      "data": "",
+      "idCounter": 0,
+      "comments": {
+        "ids": [],
+        "entities": {}
+      }
     }
   },
   "cellsOrder": [
     2,
-    3
+    3,
+    4
   ]
 }
