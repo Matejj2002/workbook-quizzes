@@ -706,7 +706,244 @@
     "3": {
       "id": 3,
       "type": "quizChecker",
-      "data": null,
+      "data": {
+        "quiz": {
+          "actual_quiz": false,
+          "can_be_checked": true,
+          "correction_of_attempts": "indepedentAttempts",
+          "date_time_close": "Sun, 08 Jun 2025 10:56:00 GMT",
+          "date_time_open": "Thu, 15 May 2025 10:56:00 GMT",
+          "datetime_check": "Fri, 16 May 2025 10:56:00 GMT",
+          "feedbackType": [
+            "pointsReview",
+            "correctAnswers",
+            "optionsFeedback"
+          ],
+          "feedbackTypeAfterClose": [
+            "pointsReview",
+            "questionFeedback"
+          ],
+          "first_generation": false,
+          "id": 342,
+          "is_finished": true,
+          "is_opened": true,
+          "number_of_corrections": 500,
+          "number_of_questions": 4,
+          "order": [
+            557
+          ],
+          "quiz_id": 1841,
+          "quizzes": [
+            {
+              "ended": "Thu, 22 May 2025 16:14:18 GMT",
+              "feedback": [
+                "pointsReview",
+                "correctAnswers",
+                "optionsFeedback"
+              ],
+              "quiz_id": 1785,
+              "started": "Thu, 22 May 2025 16:14:16 GMT"
+            },
+            {
+              "ended": "Thu, 22 May 2025 16:15:19 GMT",
+              "feedback": [
+                "pointsReview",
+                "correctAnswers",
+                "optionsFeedback"
+              ],
+              "quiz_id": 1786,
+              "started": "Thu, 22 May 2025 16:15:14 GMT"
+            },
+            {
+              "ended": "Thu, 22 May 2025 16:16:55 GMT",
+              "feedback": [
+                "pointsReview",
+                "correctAnswers",
+                "optionsFeedback"
+              ],
+              "quiz_id": 1787,
+              "started": "Thu, 22 May 2025 16:16:46 GMT"
+            },
+            {
+              "ended": "Thu, 22 May 2025 20:08:22 GMT",
+              "feedback": [
+                "pointsReview",
+                "correctAnswers",
+                "optionsFeedback"
+              ],
+              "quiz_id": 1825,
+              "started": "Thu, 22 May 2025 20:08:20 GMT"
+            },
+            {
+              "ended": "Thu, 22 May 2025 20:08:32 GMT",
+              "feedback": [
+                "pointsReview",
+                "correctAnswers",
+                "optionsFeedback"
+              ],
+              "quiz_id": 1826,
+              "started": "Thu, 22 May 2025 20:08:25 GMT"
+            },
+            {
+              "ended": "Thu, 22 May 2025 20:08:46 GMT",
+              "feedback": [
+                "pointsReview",
+                "correctAnswers",
+                "optionsFeedback"
+              ],
+              "quiz_id": 1827,
+              "started": "Thu, 22 May 2025 20:08:43 GMT"
+            },
+            {
+              "ended": "Thu, 22 May 2025 20:09:04 GMT",
+              "feedback": [
+                "pointsReview",
+                "correctAnswers",
+                "optionsFeedback"
+              ],
+              "quiz_id": 1828,
+              "started": "Thu, 22 May 2025 20:09:00 GMT"
+            },
+            {
+              "ended": "Thu, 22 May 2025 20:09:10 GMT",
+              "feedback": [
+                "pointsReview",
+                "correctAnswers",
+                "optionsFeedback"
+              ],
+              "quiz_id": 1829,
+              "started": "Thu, 22 May 2025 20:09:06 GMT"
+            },
+            {
+              "ended": "Thu, 22 May 2025 20:09:15 GMT",
+              "feedback": [
+                "pointsReview",
+                "correctAnswers",
+                "optionsFeedback"
+              ],
+              "quiz_id": 1830,
+              "started": "Thu, 22 May 2025 20:09:12 GMT"
+            },
+            {
+              "ended": "Fri, 23 May 2025 16:20:27 GMT",
+              "feedback": [
+                "pointsReview",
+                "correctAnswers",
+                "optionsFeedback"
+              ],
+              "quiz_id": 1832,
+              "started": "Fri, 23 May 2025 16:20:19 GMT"
+            },
+            {
+              "ended": "Sun, 25 May 2025 13:28:48 GMT",
+              "feedback": [
+                "pointsReview",
+                "correctAnswers",
+                "optionsFeedback"
+              ],
+              "quiz_id": 1833,
+              "started": "Sun, 25 May 2025 13:28:45 GMT"
+            },
+            {
+              "ended": "Sun, 25 May 2025 13:29:05 GMT",
+              "feedback": [
+                "pointsReview",
+                "correctAnswers",
+                "optionsFeedback"
+              ],
+              "quiz_id": 1834,
+              "started": "Sun, 25 May 2025 13:29:01 GMT"
+            },
+            {
+              "ended": "Mon, 26 May 2025 09:12:23 GMT",
+              "feedback": [
+                "pointsReview",
+                "correctAnswers",
+                "optionsFeedback"
+              ],
+              "quiz_id": 1840,
+              "started": "Mon, 26 May 2025 09:12:17 GMT"
+            },
+            {
+              "ended": "Mon, 26 May 2025 09:12:37 GMT",
+              "feedback": [
+                "pointsReview",
+                "correctAnswers",
+                "optionsFeedback"
+              ],
+              "quiz_id": 1841,
+              "started": "Mon, 26 May 2025 09:12:32 GMT"
+            }
+          ],
+          "sections": [
+            {
+              "order": [
+                1717,
+                1718,
+                1719,
+                1720
+              ],
+              "questions": [
+                {
+                  "author": "Matej Gornal",
+                  "dateCreated": "Mon, 24 Feb 2025 20:57:14 GMT",
+                  "evaluation": 1,
+                  "id": 262,
+                  "item_id": 1717,
+                  "questionType": "questions",
+                  "text": "asdasd",
+                  "title": "NovaOtazka2",
+                  "type": "matching_answer_question"
+                },
+                {
+                  "author": "Matej Gornal",
+                  "dateCreated": "Thu, 15 May 2025 09:05:40 GMT",
+                  "evaluation": 1,
+                  "id": 288,
+                  "item_id": 1718,
+                  "questionType": "questions",
+                  "text": "Lorem ipsum odor amet, consectetuer adipiscing elit. \nNec vulputate dictum orci etiam magna. \nCras turpis lacus purus quisque metus sapien morbi. \nIpsum posuere egestas nam torquent metus donec \nhabitant felis accumsan. Eu himenaeos proin \nhendrerit in porttitor himenaeos. Nostra ante \nvehicula curae iaculis imperdiet nibh pretium. \nNullam fames quam hendrerit suspendisse \neuismod, arcu lobortis. Pellentesque in nulla, \ndictum lacus massa rhoncus? Nova verzia",
+                  "title": "Otazka 2 ",
+                  "type": "short_answer_question"
+                },
+                {
+                  "author": "Matej Gornal",
+                  "dateCreated": "Thu, 20 Feb 2025 20:50:35 GMT",
+                  "evaluation": 1,
+                  "id": 248,
+                  "item_id": 1719,
+                  "questionType": "questions",
+                  "text": "asd",
+                  "title": "skuskaNovaK2",
+                  "type": "matching_answer_question"
+                },
+                {
+                  "author": "Matej Gornal",
+                  "dateCreated": "Wed, 21 May 2025 11:40:20 GMT",
+                  "evaluation": 1,
+                  "id": 231,
+                  "item_id": 1720,
+                  "questionType": "questions",
+                  "text": "anslfnafnaslfnlasda",
+                  "title": "nova otazka",
+                  "type": "multiple_answer_question"
+                }
+              ],
+              "sectionId": 1,
+              "section_id": 557,
+              "shuffle": false,
+              "title": "Section 1"
+            }
+          ],
+          "sections_ordered": [],
+          "shuffle_sections": false,
+          "time_limit_end": false,
+          "time_to_finish": 5,
+          "title": "NKK Vacsie"
+        },
+        "quizId": 342,
+        "reviewData": {}
+      },
       "idCounter": 0,
       "comments": {
         "ids": [],
