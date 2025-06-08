@@ -229,6 +229,7 @@
             "correctAnswers"
           ],
           "conditionToRetake": true,
+          "userId": 1,
           "userRole": "student"
         }
       },
